@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      body {
+        width: 720pt;
+        height: 405pt;
+        margin: 0;
+        display: flex;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #181B24;
+        color: #FCFCFC;
+      }
+      .slide {
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+        padding: 44pt 52pt;
+        display: flex;
+        flex-direction: column;
+        gap: 18pt;
+      }
+      h2 {
+        margin: 0;
+        font-size: 28pt;
+        line-height: 1.2;
+      }
+      p {
+        margin: 0;
+        font-size: 16pt;
+        line-height: 1.35;
+        color: #B7C0D8;
+      }
+      .row {
+        display: flex;
+        gap: 14pt;
+        margin-top: 6pt;
+      }
+      .card {
+        flex: 1;
+        background: #23283A;
+        border: 2pt solid #313A55;
+        border-radius: 14pt;
+        padding: 16pt 16pt;
+        display: flex;
+        flex-direction: column;
+        gap: 10pt;
+      }
+      .num {
+        display: inline-block;
+        width: fit-content;
+        padding: 4pt 10pt;
+        border-radius: 999pt;
+        background: #B165FB;
+      }
+      .num.green {
+        background: #6EE7B7;
+      }
+      .num.gray {
+        background: #A3B1D9;
+      }
+      .num p {
+        margin: 0;
+        font-weight: 800;
+        font-size: 12pt;
+        letter-spacing: 0.4pt;
+        color: #181B24;
+        line-height: 1.1;
+      }
+      h3 {
+        margin: 0;
+        font-size: 18pt;
+        line-height: 1.2;
+      }
+      ul {
+        margin: 0;
+        padding-left: 20pt;
+      }
+      li {
+        font-size: 14.5pt;
+        line-height: 1.35;
+        color: #E7ECFF;
+        margin: 6pt 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide">
+      <h2>Skills 通常能做什么？</h2>
+      <p>从产品层面看，Skills 主要把能力“固化成可复用的模块”。</p>
+      <div class="row">
+        <div class="card">
+          <div class="num"><p>1</p></div>
+          <h3>约束行为方式</h3>
+          <ul>
+            <li>定义能力范围与边界</li>
+            <li>规定输出格式与流程</li>
+            <li>减少随机性，提高一致性</li>
+          </ul>
+        </div>
+        <div class="card">
+          <div class="num green"><p>2</p></div>
+          <h3>提供专用能力</h3>
+          <ul>
+            <li>聚焦单一任务/任务族</li>
+            <li>更稳定的结果质量</li>
+            <li>适配团队与场景需求</li>
+          </ul>
+        </div>
+        <div class="card">
+          <div class="num gray"><p>3</p></div>
+          <h3>复用与组合</h3>
+          <ul>
+            <li>一次定义，多处使用</li>
+            <li>可被多个 Agent/Flow 调用</li>
+            <li>组合成更复杂的流程</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

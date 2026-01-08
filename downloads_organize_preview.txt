@@ -1,0 +1,320 @@
+MOVE: /Users/seven/Downloads/btc-pro-terminal (1).zip -> /Users/seven/Downloads/zip/btc-pro-terminal (1).zip
+MOVE: /Users/seven/Downloads/相册读写Release.p7b -> /Users/seven/Downloads/p7b/相册读写Release.p7b
+MOVE: /Users/seven/Downloads/PokerX 3.zip -> /Users/seven/Downloads/zip/PokerX 3.zip
+MOVE: /Users/seven/Downloads/sqlite3-v5.1.7-napi-v6-win32-x64.tar.gz -> /Users/seven/Downloads/tar.gz/sqlite3-v5.1.7-napi-v6-win32-x64.tar.gz
+MOVE: /Users/seven/Downloads/CC-Switch-v3.8.2-macOS.zip -> /Users/seven/Downloads/zip/CC-Switch-v3.8.2-macOS.zip
+MOVE: /Users/seven/Downloads/吴旻晖.png -> /Users/seven/Downloads/png/吴旻晖.png
+MOVE: /Users/seven/Downloads/1766974283891(2).jpg -> /Users/seven/Downloads/jpg/1766974283891(2).jpg
+MOVE: /Users/seven/Downloads/index (1).js -> /Users/seven/Downloads/js/index (1).js
+MOVE: /Users/seven/Downloads/caijiduan上报跳过无效域名-每开始50次注册就上传.zip -> /Users/seven/Downloads/zip/caijiduan上报跳过无效域名-每开始50次注册就上传.zip
+MOVE: /Users/seven/Downloads/Clash_1764461966.yaml -> /Users/seven/Downloads/yaml/Clash_1764461966.yaml
+MOVE: /Users/seven/Downloads/test (3).html -> /Users/seven/Downloads/html/test (3).html
+MOVE: /Users/seven/Downloads/Screenshot_20251230_175816_windinfo_android_MainLaunchActivity.jpg -> /Users/seven/Downloads/jpg/Screenshot_20251230_175816_windinfo_android_MainLaunchActivity.jpg
+MOVE: /Users/seven/Downloads/PokerX-完成 (1).zip -> /Users/seven/Downloads/zip/PokerX-完成 (1).zip
+MOVE: /Users/seven/Downloads/PokerX-准备添加备份功能.zip -> /Users/seven/Downloads/zip/PokerX-准备添加备份功能.zip
+MOVE: /Users/seven/Downloads/augment.vscode-augment-0.492.0.vsix -> /Users/seven/Downloads/vsix/augment.vscode-augment-0.492.0.vsix
+MOVE: /Users/seven/Downloads/cursor_accounts.sql -> /Users/seven/Downloads/sql/cursor_accounts.sql
+MOVE: /Users/seven/Downloads/cursor_2025-01-30_21-47-33_mysql_data_6lVOq.sql -> /Users/seven/Downloads/sql/cursor_2025-01-30_21-47-33_mysql_data_6lVOq.sql
+MOVE: /Users/seven/Downloads/Mimestream 1.9.4 [MacKed].dmg (1).zip -> /Users/seven/Downloads/zip/Mimestream 1.9.4 [MacKed].dmg (1).zip
+MOVE: /Users/seven/Downloads/PokerX 2.zip -> /Users/seven/Downloads/zip/PokerX 2.zip
+MOVE: /Users/seven/Downloads/Receipt-INV-291056.pdf -> /Users/seven/Downloads/pdf/Receipt-INV-291056.pdf
+MOVE: /Users/seven/Downloads/柴犬cursor助手Mac.zip -> /Users/seven/Downloads/zip/柴犬cursor助手Mac.zip
+MOVE: /Users/seven/Downloads/无标题-2025-12-01-1106 (6).excalidraw -> /Users/seven/Downloads/excalidraw/无标题-2025-12-01-1106 (6).excalidraw
+MOVE: /Users/seven/Downloads/1766974273666(1).jpg -> /Users/seven/Downloads/jpg/1766974273666(1).jpg
+MOVE: /Users/seven/Downloads/icon.png -> /Users/seven/Downloads/png/icon.png
+MOVE: /Users/seven/Downloads/icon-1024x1024-1764850670530-0_副本.png -> /Users/seven/Downloads/png/icon-1024x1024-1764850670530-0_副本.png
+MOVE: /Users/seven/Downloads/index (2).js -> /Users/seven/Downloads/js/index (2).js
+MOVE: /Users/seven/Downloads/视频中提取音频示例代码.zip -> /Users/seven/Downloads/zip/视频中提取音频示例代码.zip
+MOVE: /Users/seven/Downloads/index (3).js -> /Users/seven/Downloads/js/index (3).js
+MOVE: /Users/seven/Downloads/PokerX (2).cer -> /Users/seven/Downloads/cer/PokerX (2).cer
+MOVE: /Users/seven/Downloads/codex-sevenwu2000run@gmail.com.json -> /Users/seven/Downloads/json/codex-sevenwu2000run@gmail.com.json
+MOVE: /Users/seven/Downloads/DogeX 2.zip -> /Users/seven/Downloads/zip/DogeX 2.zip
+MOVE: /Users/seven/Downloads/sprite-sheet-uniform (1).png -> /Users/seven/Downloads/png/sprite-sheet-uniform (1).png
+MOVE: /Users/seven/Downloads/Untitled-2025-12-01-1029 (1).excalidraw.zip -> /Users/seven/Downloads/zip/Untitled-2025-12-01-1029 (1).excalidraw.zip
+MOVE: /Users/seven/Downloads/cursor_domains.sql -> /Users/seven/Downloads/sql/cursor_domains.sql
+MOVE: /Users/seven/Downloads/申请额度调整申请通知书.zip -> /Users/seven/Downloads/zip/申请额度调整申请通知书.zip
+MOVE: /Users/seven/Downloads/dzfp_25322000000638586610_苏州商数时代信息科技有限公司_20251231113034.pdf -> /Users/seven/Downloads/pdf/dzfp_25322000000638586610_苏州商数时代信息科技有限公司_20251231113034.pdf
+MOVE: /Users/seven/Downloads/hairstyle-17665040602061.jpg -> /Users/seven/Downloads/jpg/hairstyle-17665040602061.jpg
+MOVE: /Users/seven/Downloads/dzwse45561e212484c08baf416563280ba38.pdf -> /Users/seven/Downloads/pdf/dzwse45561e212484c08baf416563280ba38.pdf
+MOVE: /Users/seven/Downloads/PokerX 5.zip -> /Users/seven/Downloads/zip/PokerX 5.zip
+MOVE: /Users/seven/Downloads/cursor-free-vip-1.9.05.zip -> /Users/seven/Downloads/zip/cursor-free-vip-1.9.05.zip
+MOVE: /Users/seven/Downloads/PokerX-default-signed.app -> /Users/seven/Downloads/app/PokerX-default-signed.app
+MOVE: /Users/seven/Downloads/2025-12-01-AI分享-ios2harmony.excalidraw -> /Users/seven/Downloads/excalidraw/2025-12-01-AI分享-ios2harmony.excalidraw
+MOVE: /Users/seven/Downloads/Screenshot_2025-12-28-21-57-58-360_哔哩哔哩.png -> /Users/seven/Downloads/png/Screenshot_2025-12-28-21-57-58-360_哔哩哔哩.png
+MOVE: /Users/seven/Downloads/cursor_mac_id_modifier.sh -> /Users/seven/Downloads/sh/cursor_mac_id_modifier.sh
+MOVE: /Users/seven/Downloads/index.html -> /Users/seven/Downloads/html/index.html
+MOVE: /Users/seven/Downloads/vscode-augment-0.647.2.vsix -> /Users/seven/Downloads/vsix/vscode-augment-0.647.2.vsix
+MOVE: /Users/seven/Downloads/safebox.png -> /Users/seven/Downloads/png/safebox.png
+MOVE: /Users/seven/Downloads/.DS_Store -> /Users/seven/Downloads/dotfile/.DS_Store
+MOVE: /Users/seven/Downloads/PokerX (3).cer -> /Users/seven/Downloads/cer/PokerX (3).cer
+MOVE: /Users/seven/Downloads/.~Vibe+coding新形态-AlStudio.pptx -> /Users/seven/Downloads/pptx/.~Vibe+coding新形态-AlStudio.pptx
+MOVE: /Users/seven/Downloads/PokerX-优化回收弹框.zip -> /Users/seven/Downloads/zip/PokerX-优化回收弹框.zip
+MOVE: /Users/seven/Downloads/AI分享-2025-11-26-吴旻晖 3.pptx -> /Users/seven/Downloads/pptx/AI分享-2025-11-26-吴旻晖 3.pptx
+MOVE: /Users/seven/Downloads/tinified.zip -> /Users/seven/Downloads/zip/tinified.zip
+MOVE: /Users/seven/Downloads/hairstyle-collage-1765079453898.jpg -> /Users/seven/Downloads/jpg/hairstyle-collage-1765079453898.jpg
+MOVE: /Users/seven/Downloads/caijiduan-autostart-config - 上报跳过无效域名-30次就上传.zip -> /Users/seven/Downloads/zip/caijiduan-autostart-config - 上报跳过无效域名-30次就上传.zip
+MOVE: /Users/seven/Downloads/PokerX 4.zip -> /Users/seven/Downloads/zip/PokerX 4.zip
+MOVE: /Users/seven/Downloads/PokerX 6.zip -> /Users/seven/Downloads/zip/PokerX 6.zip
+MOVE: /Users/seven/Downloads/QuarkPC_V6.1.0.653_pc_pf30002_(zh-cn)_releasemini_(Build2655485-1001-x64).exe -> /Users/seven/Downloads/exe/QuarkPC_V6.1.0.653_pc_pf30002_(zh-cn)_releasemini_(Build2655485-1001-x64).exe
+MOVE: /Users/seven/Downloads/caijiduan上报跳过无效域名-每开始50次注册就上传 (1).zip -> /Users/seven/Downloads/zip/caijiduan上报跳过无效域名-每开始50次注册就上传 (1).zip
+MOVE: /Users/seven/Downloads/codex-sevenokey@gmail.com (2).json -> /Users/seven/Downloads/json/codex-sevenokey@gmail.com (2).json
+MOVE: /Users/seven/Downloads/10.txt -> /Users/seven/Downloads/txt/10.txt
+MOVE: /Users/seven/Downloads/CLIProxyAPI_6.6.17_darwin_arm64.tar.gz -> /Users/seven/Downloads/tar.gz/CLIProxyAPI_6.6.17_darwin_arm64.tar.gz
+MOVE: /Users/seven/Downloads/ai.mp4 -> /Users/seven/Downloads/mp4/ai.mp4
+MOVE: /Users/seven/Downloads/grok-video-687bc38c-de29-411d-9dbb-923d7b3e41e1 (1).mp4 -> /Users/seven/Downloads/mp4/grok-video-687bc38c-de29-411d-9dbb-923d7b3e41e1 (1).mp4
+MOVE: /Users/seven/Downloads/读写相册权限Release.p7b -> /Users/seven/Downloads/p7b/读写相册权限Release.p7b
+MOVE: /Users/seven/Downloads/ysc_285740.apk -> /Users/seven/Downloads/apk/ysc_285740.apk
+MOVE: /Users/seven/Downloads/AI分享-2025-11-26-吴旻晖 3.pdf -> /Users/seven/Downloads/pdf/AI分享-2025-11-26-吴旻晖 3.pdf
+MOVE: /Users/seven/Downloads/cursor-free-1.11.0.zip -> /Users/seven/Downloads/zip/cursor-free-1.11.0.zip
+MOVE: /Users/seven/Downloads/1766974283891(3).jpg -> /Users/seven/Downloads/jpg/1766974283891(3).jpg
+MOVE: /Users/seven/Downloads/1766974273666.jpg -> /Users/seven/Downloads/jpg/1766974273666.jpg
+MOVE: /Users/seven/Downloads/PokerX 8-3.5优化前.zip -> /Users/seven/Downloads/zip/PokerX 8-3.5优化前.zip
+MOVE: /Users/seven/Downloads/.localized -> /Users/seven/Downloads/dotfile/.localized
+MOVE: /Users/seven/Downloads/antigravity-sevenwu2000run_gmail_com.json -> /Users/seven/Downloads/json/antigravity-sevenwu2000run_gmail_com.json
+MOVE: /Users/seven/Downloads/pro-headshot-d5e7fdfb-4c45-41ac-95b3-52ef0a75c744.png -> /Users/seven/Downloads/png/pro-headshot-d5e7fdfb-4c45-41ac-95b3-52ef0a75c744.png
+MOVE: /Users/seven/Downloads/SliderClean1-功能相对完善.zip -> /Users/seven/Downloads/zip/SliderClean1-功能相对完善.zip
+MOVE: /Users/seven/Downloads/PokerX-default-signed (1).app -> /Users/seven/Downloads/app/PokerX-default-signed (1).app
+MOVE: /Users/seven/Downloads/Vibe+coding新形态-AlStudio.pptx -> /Users/seven/Downloads/pptx/Vibe+coding新形态-AlStudio.pptx
+MOVE: /Users/seven/Downloads/1-day.txt -> /Users/seven/Downloads/txt/1-day.txt
+MOVE: /Users/seven/Downloads/2025-12-01_吴旻晖AI分享.excalidraw.png -> /Users/seven/Downloads/png/2025-12-01_吴旻晖AI分享.excalidraw.png
+MOVE: /Users/seven/Downloads/codex-sevenokey@gmail.com.json -> /Users/seven/Downloads/json/codex-sevenokey@gmail.com.json
+MOVE: /Users/seven/Downloads/PokerX 7.zip -> /Users/seven/Downloads/zip/PokerX 7.zip
+MOVE: /Users/seven/Downloads/index-xxx.html -> /Users/seven/Downloads/html/index-xxx.html
+MOVE: /Users/seven/Downloads/AI分享-2025-12-23-吴旻晖2.pptx -> /Users/seven/Downloads/pptx/AI分享-2025-12-23-吴旻晖2.pptx
+MOVE: /Users/seven/Downloads/augment-vscode-modified-v0.650.0.vsix -> /Users/seven/Downloads/vsix/augment-vscode-modified-v0.650.0.vsix
+MOVE: /Users/seven/Downloads/CC-Switch-macOS.zip -> /Users/seven/Downloads/zip/CC-Switch-macOS.zip
+MOVE: /Users/seven/Downloads/Clash_1767597981.yaml -> /Users/seven/Downloads/yaml/Clash_1767597981.yaml
+MOVE: /Users/seven/Downloads/.~AI分享-2025-11-26-吴旻晖 3.pptx -> /Users/seven/Downloads/pptx/.~AI分享-2025-11-26-吴旻晖 3.pptx
+MOVE: /Users/seven/Downloads/EasyCLI-v0.1.32-darwin-arm64 (1).dmg -> /Users/seven/Downloads/dmg/EasyCLI-v0.1.32-darwin-arm64 (1).dmg
+MOVE: /Users/seven/Downloads/PokerX-解决新媒体加入-横屏视频错误展示.zip -> /Users/seven/Downloads/zip/PokerX-解决新媒体加入-横屏视频错误展示.zip
+MOVE: /Users/seven/Downloads/doge_mac_v5.93.zip -> /Users/seven/Downloads/zip/doge_mac_v5.93.zip
+MOVE: /Users/seven/Downloads/电子证书_1764828075428.ofd -> /Users/seven/Downloads/ofd/电子证书_1764828075428.ofd
+MOVE: /Users/seven/Downloads/PokerX (4).cer -> /Users/seven/Downloads/cer/PokerX (4).cer
+MOVE: /Users/seven/Downloads/Three.js 3D 魔方.html -> /Users/seven/Downloads/html/Three.js 3D 魔方.html
+MOVE: /Users/seven/Downloads/1-day (1).txt -> /Users/seven/Downloads/txt/1-day (1).txt
+MOVE: /Users/seven/Downloads/DogeX-发牌手.zip -> /Users/seven/Downloads/zip/DogeX-发牌手.zip
+MOVE: /Users/seven/Downloads/PokerX-优化已整理完毕cell.zip -> /Users/seven/Downloads/zip/PokerX-优化已整理完毕cell.zip
+MOVE: /Users/seven/Downloads/index-2.js -> /Users/seven/Downloads/js/index-2.js
+MOVE: /Users/seven/Downloads/CC-Switch-v3.5.1-macOS.zip -> /Users/seven/Downloads/zip/CC-Switch-v3.5.1-macOS.zip
+MOVE: /Users/seven/Downloads/吴旻晖 (1).png -> /Users/seven/Downloads/png/吴旻晖 (1).png
+MOVE: /Users/seven/Downloads/EasyCLI-v0.1.32-darwin-arm64.dmg -> /Users/seven/Downloads/dmg/EasyCLI-v0.1.32-darwin-arm64.dmg
+MOVE: /Users/seven/Downloads/1766974283891(4).jpg -> /Users/seven/Downloads/jpg/1766974283891(4).jpg
+MOVE: /Users/seven/Downloads/goldendiamond-1.4.0.zip -> /Users/seven/Downloads/zip/goldendiamond-1.4.0.zip
+MOVE: /Users/seven/Downloads/.~AI分享-2025-11-26-吴旻晖_最终版本_副本.pptx -> /Users/seven/Downloads/pptx/.~AI分享-2025-11-26-吴旻晖_最终版本_副本.pptx
+MOVE: /Users/seven/Downloads/pay.html -> /Users/seven/Downloads/html/pay.html
+MOVE: /Users/seven/Downloads/doge_mac_v5.91.zip -> /Users/seven/Downloads/zip/doge_mac_v5.91.zip
+MOVE: /Users/seven/Downloads/cursor-json升级混淆器.zip -> /Users/seven/Downloads/zip/cursor-json升级混淆器.zip
+MOVE: /Users/seven/Downloads/Paste 6.1.0咸鱼.dmg.zip -> /Users/seven/Downloads/zip/Paste 6.1.0咸鱼.dmg.zip
+MOVE: /Users/seven/Downloads/电视时光1.0.10.exe.baiduyun.p.downloading -> /Users/seven/Downloads/downloading/电视时光1.0.10.exe.baiduyun.p.downloading
+MOVE: /Users/seven/Downloads/index (1).html -> /Users/seven/Downloads/html/index (1).html
+MOVE: /Users/seven/Downloads/codex-wmhrun2000@gmail.com-Cheggone-1.json -> /Users/seven/Downloads/json/codex-wmhrun2000@gmail.com-Cheggone-1.json
+MOVE: /Users/seven/Downloads/去除水印.png -> /Users/seven/Downloads/png/去除水印.png
+MOVE: /Users/seven/Downloads/icon-1024x1024-1764850603930-3.png -> /Users/seven/Downloads/png/icon-1024x1024-1764850603930-3.png
+MOVE: /Users/seven/Downloads/ClashX.zip -> /Users/seven/Downloads/zip/ClashX.zip
+MOVE: /Users/seven/Downloads/DareRelease.p7b -> /Users/seven/Downloads/p7b/DareRelease.p7b
+MOVE: /Users/seven/Downloads/desktop-messenger-demo (1).zip -> /Users/seven/Downloads/zip/desktop-messenger-demo (1).zip
+MOVE: /Users/seven/Downloads/Clash.Verge.zip -> /Users/seven/Downloads/zip/Clash.Verge.zip
+MOVE: /Users/seven/Downloads/Gemini_Generated_Image_6vb4ya6vb4ya6vb4.png -> /Users/seven/Downloads/png/Gemini_Generated_Image_6vb4ya6vb4ya6vb4.png
+MOVE: /Users/seven/Downloads/PokerX.zip -> /Users/seven/Downloads/zip/PokerX.zip
+MOVE: /Users/seven/Downloads/goldendiamond-1.4.0.vsix.zip -> /Users/seven/Downloads/zip/goldendiamond-1.4.0.vsix.zip
+MOVE: /Users/seven/Downloads/20美金.txt -> /Users/seven/Downloads/txt/20美金.txt
+MOVE: /Users/seven/Downloads/sprite-sheet-uniform.png -> /Users/seven/Downloads/png/sprite-sheet-uniform.png
+MOVE: /Users/seven/Downloads/shiba-activator-1.0.1.vsix -> /Users/seven/Downloads/vsix/shiba-activator-1.0.1.vsix
+MOVE: /Users/seven/Downloads/codex-sevenokey@gmail.com-Codex202512210227-2.json -> /Users/seven/Downloads/json/codex-sevenokey@gmail.com-Codex202512210227-2.json
+MOVE: /Users/seven/Downloads/大语言模型综合排行榜 25_12_14_1_网球玩的人_来自小红书网页版.png -> /Users/seven/Downloads/png/大语言模型综合排行榜 25_12_14_1_网球玩的人_来自小红书网页版.png
+MOVE: /Users/seven/Downloads/index.js -> /Users/seven/Downloads/js/index.js
+MOVE: /Users/seven/Downloads/doge_mac_v6.10 (1).zip -> /Users/seven/Downloads/zip/doge_mac_v6.10 (1).zip
+MOVE: /Users/seven/Downloads/wmhrun2000@gmail.com-gen-lang-client-0375155767.json -> /Users/seven/Downloads/json/wmhrun2000@gmail.com-gen-lang-client-0375155767.json
+MOVE: /Users/seven/Downloads/business-gemini-pool-main (1).zip -> /Users/seven/Downloads/zip/business-gemini-pool-main (1).zip
+MOVE: /Users/seven/Downloads/AI分享-2025-11-06-吴旻晖.pptx -> /Users/seven/Downloads/pptx/AI分享-2025-11-06-吴旻晖.pptx
+MOVE: /Users/seven/Downloads/批量退货管理.html -> /Users/seven/Downloads/html/批量退货管理.html
+MOVE: /Users/seven/Downloads/大语言模型综合排行榜 25_12_14_1_网球玩的人_来自小红书网页版.jpg -> /Users/seven/Downloads/jpg/大语言模型综合排行榜 25_12_14_1_网球玩的人_来自小红书网页版.jpg
+MOVE: /Users/seven/Downloads/cursor_accounts_copy9.sql_Zhenz.tar.gz -> /Users/seven/Downloads/tar.gz/cursor_accounts_copy9.sql_Zhenz.tar.gz
+MOVE: /Users/seven/Downloads/AI Tools & Models Strategy.pptx -> /Users/seven/Downloads/pptx/AI Tools & Models Strategy.pptx
+MOVE: /Users/seven/Downloads/无标题-2025-12-01-1106 (5).excalidraw -> /Users/seven/Downloads/excalidraw/无标题-2025-12-01-1106 (5).excalidraw
+MOVE: /Users/seven/Downloads/codex-sevenokey@gmail.com-Cheggone-1.json -> /Users/seven/Downloads/json/codex-sevenokey@gmail.com-Cheggone-1.json
+MOVE: /Users/seven/Downloads/html_fjMYY.tar.gz -> /Users/seven/Downloads/tar.gz/html_fjMYY.tar.gz
+MOVE: /Users/seven/Downloads/codex-seven2000run@gmail.com (1).json -> /Users/seven/Downloads/json/codex-seven2000run@gmail.com (1).json
+MOVE: /Users/seven/Downloads/html_jeH7T.tar.gz -> /Users/seven/Downloads/tar.gz/html_jeH7T.tar.gz
+MOVE: /Users/seven/Downloads/icon-1766226288329-1.png -> /Users/seven/Downloads/png/icon-1766226288329-1.png
+MOVE: /Users/seven/Downloads/doge_mac_v6.10.zip -> /Users/seven/Downloads/zip/doge_mac_v6.10.zip
+MOVE: /Users/seven/Downloads/Gemini_Generated_Image_wkzj7mwkzj7mwkzj.png -> /Users/seven/Downloads/png/Gemini_Generated_Image_wkzj7mwkzj7mwkzj.png
+MOVE: /Users/seven/Downloads/cursor-api.html -> /Users/seven/Downloads/html/cursor-api.html
+MOVE: /Users/seven/Downloads/success confetti (1).gif -> /Users/seven/Downloads/gif/success confetti (1).gif
+MOVE: /Users/seven/Downloads/2025-12-01-AI分享-ios2harmony.excalidraw.zip -> /Users/seven/Downloads/zip/2025-12-01-AI分享-ios2harmony.excalidraw.zip
+MOVE: /Users/seven/Downloads/DolphinCursorClient_v3.6.3 2.exe -> /Users/seven/Downloads/exe/DolphinCursorClient_v3.6.3 2.exe
+MOVE: /Users/seven/Downloads/0.0.5等2个文件.rar -> /Users/seven/Downloads/rar/0.0.5等2个文件.rar
+MOVE: /Users/seven/Downloads/.~AI Tools & Models Strategy.pptx -> /Users/seven/Downloads/pptx/.~AI Tools & Models Strategy.pptx
+MOVE: /Users/seven/Downloads/codex-sevenokey@gmail.com (1).json -> /Users/seven/Downloads/json/codex-sevenokey@gmail.com (1).json
+MOVE: /Users/seven/Downloads/PokerX-无预览进度条.zip -> /Users/seven/Downloads/zip/PokerX-无预览进度条.zip
+MOVE: /Users/seven/Downloads/PokerDare.cer -> /Users/seven/Downloads/cer/PokerDare.cer
+MOVE: /Users/seven/Downloads/Gemini_Generated_Image_6vb4ya6vb4ya6vb4 (1).png -> /Users/seven/Downloads/png/Gemini_Generated_Image_6vb4ya6vb4ya6vb4 (1).png
+MOVE: /Users/seven/Downloads/task-frontend-dev.html -> /Users/seven/Downloads/html/task-frontend-dev.html
+MOVE: /Users/seven/Downloads/icon-1024x1024-1764850670530-0.png -> /Users/seven/Downloads/png/icon-1024x1024-1764850670530-0.png
+MOVE: /Users/seven/Downloads/sevenokey@gmail.com-sevenokey.json -> /Users/seven/Downloads/json/sevenokey@gmail.com-sevenokey.json
+MOVE: /Users/seven/Downloads/Untitled-2025-12-01-1029 (1).excalidraw (1).zip -> /Users/seven/Downloads/zip/Untitled-2025-12-01-1029 (1).excalidraw (1).zip
+MOVE: /Users/seven/Downloads/Paste 2.zip -> /Users/seven/Downloads/zip/Paste 2.zip
+MOVE: /Users/seven/Downloads/background.png -> /Users/seven/Downloads/png/background.png
+MOVE: /Users/seven/Downloads/Clash_1764460929.yaml.zip -> /Users/seven/Downloads/zip/Clash_1764460929.yaml.zip
+MOVE: /Users/seven/Downloads/Screenshot_20260105_135354_com_hexin_plat_android_Hexin.jpg -> /Users/seven/Downloads/jpg/Screenshot_20260105_135354_com_hexin_plat_android_Hexin.jpg
+MOVE: /Users/seven/Downloads/qa.png -> /Users/seven/Downloads/png/qa.png
+MOVE: /Users/seven/Downloads/Clash_1764395007.yaml -> /Users/seven/Downloads/yaml/Clash_1764395007.yaml
+MOVE: /Users/seven/Downloads/dzfp_25322000000574978198_苏州商数时代信息科技有限公司_20251202172830.pdf -> /Users/seven/Downloads/pdf/dzfp_25322000000574978198_苏州商数时代信息科技有限公司_20251202172830.pdf
+MOVE: /Users/seven/Downloads/business-gemini-pool-main.zip -> /Users/seven/Downloads/zip/business-gemini-pool-main.zip
+MOVE: /Users/seven/Downloads/CLIProxyAPI_6.6.17_darwin_arm64 (1).tar.gz -> /Users/seven/Downloads/tar.gz/CLIProxyAPI_6.6.17_darwin_arm64 (1).tar.gz
+MOVE: /Users/seven/Downloads/env -> /Users/seven/Downloads/no-extension/env
+MOVE: /Users/seven/Downloads/doge_mac_v5.71.zip -> /Users/seven/Downloads/zip/doge_mac_v5.71.zip
+MOVE: /Users/seven/Downloads/同事 2.zip -> /Users/seven/Downloads/zip/同事 2.zip
+MOVE: /Users/seven/Downloads/pokerx发布文件.zip -> /Users/seven/Downloads/zip/pokerx发布文件.zip
+MOVE: /Users/seven/Downloads/Screenshot_2025-12-29-08-31-03-815_锁屏.png -> /Users/seven/Downloads/png/Screenshot_2025-12-29-08-31-03-815_锁屏.png
+MOVE: /Users/seven/Downloads/10K Channel第35期.pdf -> /Users/seven/Downloads/pdf/10K Channel第35期.pdf
+MOVE: /Users/seven/Downloads/prototype-71bc8e33-6f59-474d-a4db-ba92f84bb990.png -> /Users/seven/Downloads/png/prototype-71bc8e33-6f59-474d-a4db-ba92f84bb990.png
+MOVE: /Users/seven/Downloads/codex-wmhrun2000@gmail.com (1).json -> /Users/seven/Downloads/json/codex-wmhrun2000@gmail.com (1).json
+MOVE: /Users/seven/Downloads/PokerX-准备彻底删除照片和权限拒绝处理.zip -> /Users/seven/Downloads/zip/PokerX-准备彻底删除照片和权限拒绝处理.zip
+MOVE: /Users/seven/Downloads/codex-wmhrun2000@gmail.com.json -> /Users/seven/Downloads/json/codex-wmhrun2000@gmail.com.json
+MOVE: /Users/seven/Downloads/Barrier-2.4.0-release.dmg.zip -> /Users/seven/Downloads/zip/Barrier-2.4.0-release.dmg.zip
+MOVE: /Users/seven/Downloads/PokerX-完成了已完成整理的相册cell.zip -> /Users/seven/Downloads/zip/PokerX-完成了已完成整理的相册cell.zip
+MOVE: /Users/seven/Downloads/icon-genius-526bd036-fecd-4eed-b436-93f78107e196.png -> /Users/seven/Downloads/png/icon-genius-526bd036-fecd-4eed-b436-93f78107e196.png
+MOVE: /Users/seven/Downloads/PokerX-完成.zip -> /Users/seven/Downloads/zip/PokerX-完成.zip
+MOVE: /Users/seven/Downloads/1.user.js -> /Users/seven/Downloads/js/1.user.js
+MOVE: /Users/seven/Downloads/vscode-augment-0.647.2 (2).vsix -> /Users/seven/Downloads/vsix/vscode-augment-0.647.2 (2).vsix
+MOVE: /Users/seven/Downloads/无标题-2025-12-01-1106.excalidraw -> /Users/seven/Downloads/excalidraw/无标题-2025-12-01-1106.excalidraw
+MOVE: /Users/seven/Downloads/PokerX.cer -> /Users/seven/Downloads/cer/PokerX.cer
+MOVE: /Users/seven/Downloads/btc-pro-terminal.zip -> /Users/seven/Downloads/zip/btc-pro-terminal.zip
+MOVE: /Users/seven/Downloads/foreground2.png -> /Users/seven/Downloads/png/foreground2.png
+MOVE: /Users/seven/Downloads/caijiduan-autostart-config - 上报跳过无效域名-30次就上传_优化来源显示.zip -> /Users/seven/Downloads/zip/caijiduan-autostart-config - 上报跳过无效域名-30次就上传_优化来源显示.zip
+MOVE: /Users/seven/Downloads/QSpace Pro 6.0.6.dmg -> /Users/seven/Downloads/dmg/QSpace Pro 6.0.6.dmg
+MOVE: /Users/seven/Downloads/desktop-messenger-demo (2).zip -> /Users/seven/Downloads/zip/desktop-messenger-demo (2).zip
+MOVE: /Users/seven/Downloads/1766976623934.jpg -> /Users/seven/Downloads/jpg/1766976623934.jpg
+MOVE: /Users/seven/Downloads/build.sh -> /Users/seven/Downloads/sh/build.sh
+MOVE: /Users/seven/Downloads/desktop-messenger-demo.zip -> /Users/seven/Downloads/zip/desktop-messenger-demo.zip
+MOVE: /Users/seven/Downloads/SpeechToText.zip -> /Users/seven/Downloads/zip/SpeechToText.zip
+MOVE: /Users/seven/Downloads/cursor-free-vip-main.zip -> /Users/seven/Downloads/zip/cursor-free-vip-main.zip
+MOVE: /Users/seven/Downloads/ClashXPro.dmg.zip -> /Users/seven/Downloads/zip/ClashXPro.dmg.zip
+MOVE: /Users/seven/Downloads/vscode-augment-0.647.2.vsix.zip -> /Users/seven/Downloads/zip/vscode-augment-0.647.2.vsix.zip
+MOVE: /Users/seven/Downloads/goldendiamond-1.5.01.vsix -> /Users/seven/Downloads/vsix/goldendiamond-1.5.01.vsix
+MOVE: /Users/seven/Downloads/goldendiamond-1.5.0.vsix -> /Users/seven/Downloads/vsix/goldendiamond-1.5.0.vsix
+MOVE: /Users/seven/Downloads/cursor_2025-01-30_21-47-33_mysql_data_6lVOq.sql.zip -> /Users/seven/Downloads/zip/cursor_2025-01-30_21-47-33_mysql_data_6lVOq.sql.zip
+MOVE: /Users/seven/Downloads/quotation_offline.zip -> /Users/seven/Downloads/zip/quotation_offline.zip
+MOVE: /Users/seven/Downloads/吴旻晖 (3).png -> /Users/seven/Downloads/png/吴旻晖 (3).png
+MOVE: /Users/seven/Downloads/limitup-dashboard.zip -> /Users/seven/Downloads/zip/limitup-dashboard.zip
+MOVE: /Users/seven/Downloads/QSpace Pro 6.0.4.pkg -> /Users/seven/Downloads/pkg/QSpace Pro 6.0.4.pkg
+MOVE: /Users/seven/Downloads/QuarkMac_V6.1.0.653_mac_pf30004_(zh-cn)_releasemini_(Build2657224).dmg -> /Users/seven/Downloads/dmg/QuarkMac_V6.1.0.653_mac_pf30004_(zh-cn)_releasemini_(Build2657224).dmg
+MOVE: /Users/seven/Downloads/吴旻晖 (2).png -> /Users/seven/Downloads/png/吴旻晖 (2).png
+MOVE: /Users/seven/Downloads/task-frontend-dev (3).html -> /Users/seven/Downloads/html/task-frontend-dev (3).html
+MOVE: /Users/seven/Downloads/illegal_access.sql -> /Users/seven/Downloads/sql/illegal_access.sql
+MOVE: /Users/seven/Downloads/Pycdc and Pycdas.zip -> /Users/seven/Downloads/zip/Pycdc and Pycdas.zip
+MOVE: /Users/seven/Downloads/goldendiamond-1.4.01.vsix -> /Users/seven/Downloads/vsix/goldendiamond-1.4.01.vsix
+MOVE: /Users/seven/Downloads/20251106__万得之家开发证书.zip -> /Users/seven/Downloads/zip/20251106__万得之家开发证书.zip
+MOVE: /Users/seven/Downloads/sevenwu2000run@gmail.com-gen-lang-client-0235962659.json -> /Users/seven/Downloads/json/sevenwu2000run@gmail.com-gen-lang-client-0235962659.json
+MOVE: /Users/seven/Downloads/goldendiamond-1.4.0.vsix 2 -> /Users/seven/Downloads/vsix_2/goldendiamond-1.4.0.vsix 2
+MOVE: /Users/seven/Downloads/Mac清理合集.zip -> /Users/seven/Downloads/zip/Mac清理合集.zip
+MOVE: /Users/seven/Downloads/goldendiamond-1.5.0.vsix 2 -> /Users/seven/Downloads/vsix_2/goldendiamond-1.5.0.vsix 2
+MOVE: /Users/seven/Downloads/background22.png -> /Users/seven/Downloads/png/background22.png
+MOVE: /Users/seven/Downloads/AI分享-2025-11-26-吴旻晖_最终版本_副本.pptx -> /Users/seven/Downloads/pptx/AI分享-2025-11-26-吴旻晖_最终版本_副本.pptx
+MOVE: /Users/seven/Downloads/antigravity-seven2000run_gmail_com.json -> /Users/seven/Downloads/json/antigravity-seven2000run_gmail_com.json
+MOVE: /Users/seven/Downloads/caijiduan-autostart-config - 上报跳过无效域名.zip -> /Users/seven/Downloads/zip/caijiduan-autostart-config - 上报跳过无效域名.zip
+MOVE: /Users/seven/Downloads/Cursor+新号+绑卡+变+Ultra.pdf -> /Users/seven/Downloads/pdf/Cursor+新号+绑卡+变+Ultra.pdf
+MOVE: /Users/seven/Downloads/icon-genius-0a303f7f-9b51-4d4d-ab81-11c7c1b56e41.jpg -> /Users/seven/Downloads/jpg/icon-genius-0a303f7f-9b51-4d4d-ab81-11c7c1b56e41.jpg
+MOVE: /Users/seven/Downloads/CLIProxyAPI-main.zip -> /Users/seven/Downloads/zip/CLIProxyAPI-main.zip
+MOVE: /Users/seven/Downloads/1766974283891.jpg -> /Users/seven/Downloads/jpg/1766974283891.jpg
+MOVE: /Users/seven/Downloads/seven2000run@gmail.com-united-reason-479103-d8.json -> /Users/seven/Downloads/json/seven2000run@gmail.com-united-reason-479103-d8.json
+MOVE: /Users/seven/Downloads/2025-12-01_吴旻晖AI分享.excalidraw -> /Users/seven/Downloads/excalidraw/2025-12-01_吴旻晖AI分享.excalidraw
+MOVE: /Users/seven/Downloads/pro-headshot-7e90ab3d-791f-4e68-8bc2-6c564af00be2.png -> /Users/seven/Downloads/png/pro-headshot-7e90ab3d-791f-4e68-8bc2-6c564af00be2.png
+MOVE: /Users/seven/Downloads/desktop-messenger-demo (3).zip -> /Users/seven/Downloads/zip/desktop-messenger-demo (3).zip
+MOVE: /Users/seven/Downloads/geminibusiness-v1.4.zip -> /Users/seven/Downloads/zip/geminibusiness-v1.4.zip
+MOVE: /Users/seven/Downloads/Mimestream 1.9.4 [MacKed].dmg.zip -> /Users/seven/Downloads/zip/Mimestream 1.9.4 [MacKed].dmg.zip
+MOVE: /Users/seven/Downloads/geminibusiness.zip -> /Users/seven/Downloads/zip/geminibusiness.zip
+MOVE: /Users/seven/Downloads/1766974273666(4).jpg -> /Users/seven/Downloads/jpg/1766974273666(4).jpg
+MOVE: /Users/seven/Downloads/.~AI分享-2025-11-06-吴旻晖.pptx -> /Users/seven/Downloads/pptx/.~AI分享-2025-11-06-吴旻晖.pptx
+MOVE: /Users/seven/Downloads/z.ai2api_python-main.zip -> /Users/seven/Downloads/zip/z.ai2api_python-main.zip
+MOVE: /Users/seven/Downloads/quotation.zip -> /Users/seven/Downloads/zip/quotation.zip
+MOVE: /Users/seven/Downloads/Doge_mac_v5.5.zip -> /Users/seven/Downloads/zip/Doge_mac_v5.5.zip
+MOVE: /Users/seven/Downloads/CC-Switch-v3.5.1-Windows-Portable.zip -> /Users/seven/Downloads/zip/CC-Switch-v3.5.1-Windows-Portable.zip
+MOVE: /Users/seven/Downloads/caijiduan-上报数据库重试3次-确保成功.zip -> /Users/seven/Downloads/zip/caijiduan-上报数据库重试3次-确保成功.zip
+MOVE: /Users/seven/Downloads/antigravity-sevenokey_gmail_com.json -> /Users/seven/Downloads/json/antigravity-sevenokey_gmail_com.json
+MOVE: /Users/seven/Downloads/DogeX-发牌手2.zip -> /Users/seven/Downloads/zip/DogeX-发牌手2.zip
+MOVE: /Users/seven/Downloads/批量退货管理-时限卡.html -> /Users/seven/Downloads/html/批量退货管理-时限卡.html
+MOVE: /Users/seven/Downloads/task-frontend-dev (1).html -> /Users/seven/Downloads/html/task-frontend-dev (1).html
+MOVE: /Users/seven/Downloads/shiba-activator-1.0.1.zip -> /Users/seven/Downloads/zip/shiba-activator-1.0.1.zip
+MOVE: /Users/seven/Downloads/WeTypeInstaller_1001.zip -> /Users/seven/Downloads/zip/WeTypeInstaller_1001.zip
+MOVE: /Users/seven/Downloads/codex-wmhrun2000@gmail.com (2).json -> /Users/seven/Downloads/json/codex-wmhrun2000@gmail.com (2).json
+MOVE: /Users/seven/Downloads/codex-sevenwu2000run@gmail.com-ggbone-3.json -> /Users/seven/Downloads/json/codex-sevenwu2000run@gmail.com-ggbone-3.json
+MOVE: /Users/seven/Downloads/金钻-1.5.0.zip -> /Users/seven/Downloads/zip/金钻-1.5.0.zip
+MOVE: /Users/seven/Downloads/PokerX-解决重新授权问题.zip -> /Users/seven/Downloads/zip/PokerX-解决重新授权问题.zip
+MOVE: /Users/seven/Downloads/logs.sql -> /Users/seven/Downloads/sql/logs.sql
+MOVE: /Users/seven/Downloads/vscode-augment-0.647.2 (1).vsix -> /Users/seven/Downloads/vsix/vscode-augment-0.647.2 (1).vsix
+MOVE: /Users/seven/Downloads/doge_win_v3.6.3.zip -> /Users/seven/Downloads/zip/doge_win_v3.6.3.zip
+MOVE: /Users/seven/Downloads/qa.html -> /Users/seven/Downloads/html/qa.html
+MOVE: /Users/seven/Downloads/foreground22.png -> /Users/seven/Downloads/png/foreground22.png
+MOVE: /Users/seven/Downloads/AnyMP4 Mac Blu-ray Player 6.3.78.zip -> /Users/seven/Downloads/zip/AnyMP4 Mac Blu-ray Player 6.3.78.zip
+MOVE: /Users/seven/Downloads/pro-headshot-834c9c55-ea2a-41b5-beb2-419c83d86f4b.png -> /Users/seven/Downloads/png/pro-headshot-834c9c55-ea2a-41b5-beb2-419c83d86f4b.png
+MOVE: /Users/seven/Downloads/icon22.png -> /Users/seven/Downloads/png/icon22.png
+MOVE: /Users/seven/Downloads/codex-seven2000run@gmail.com.json -> /Users/seven/Downloads/json/codex-seven2000run@gmail.com.json
+MOVE: /Users/seven/Downloads/AI分享-2025-12-23-吴旻晖2 (4).pptx -> /Users/seven/Downloads/pptx/AI分享-2025-12-23-吴旻晖2 (4).pptx
+MOVE: /Users/seven/Downloads/ShareMouse_Enterprise.zip -> /Users/seven/Downloads/zip/ShareMouse_Enterprise.zip
+MOVE: /Users/seven/Downloads/codex-sevenwu2000run@gmail.com-Quantikeu-1.json -> /Users/seven/Downloads/json/codex-sevenwu2000run@gmail.com-Quantikeu-1.json
+MOVE: /Users/seven/Downloads/doge_mac_QD_v5.71.zip -> /Users/seven/Downloads/zip/doge_mac_QD_v5.71.zip
+MOVE: /Users/seven/Downloads/pyinstxtractor-master.zip -> /Users/seven/Downloads/zip/pyinstxtractor-master.zip
+MOVE: /Users/seven/Downloads/Clash_1764395001.yaml -> /Users/seven/Downloads/yaml/Clash_1764395001.yaml
+MOVE: /Users/seven/Downloads/icon-1024x1024-1764850670530-0_副本2.png -> /Users/seven/Downloads/png/icon-1024x1024-1764850670530-0_副本2.png
+MOVE: /Users/seven/Downloads/codex-sevenwu2000run@gmail.com-ggbone.json -> /Users/seven/Downloads/json/codex-sevenwu2000run@gmail.com-ggbone.json
+MOVE: /Users/seven/Downloads/sevenokey@gmail.com-g3pro-480207.json -> /Users/seven/Downloads/json/sevenokey@gmail.com-g3pro-480207.json
+MOVE: /Users/seven/Downloads/pro-headshot-cfe6e3e4-b83f-4be1-8007-ee789c6911f7.png -> /Users/seven/Downloads/png/pro-headshot-cfe6e3e4-b83f-4be1-8007-ee789c6911f7.png
+MOVE: /Users/seven/Downloads/无标题-2025-12-01-1106 (4).excalidraw -> /Users/seven/Downloads/excalidraw/无标题-2025-12-01-1106 (4).excalidraw
+MOVE: /Users/seven/Downloads/PokerX-修改拟物化为扁平.zip -> /Users/seven/Downloads/zip/PokerX-修改拟物化为扁平.zip
+MOVE: /Users/seven/Downloads/codex-seven2000run@gmail.com-Qqemail-1.json -> /Users/seven/Downloads/json/codex-seven2000run@gmail.com-Qqemail-1.json
+MOVE: /Users/seven/Downloads/DogeX.zip -> /Users/seven/Downloads/zip/DogeX.zip
+MOVE: /Users/seven/Downloads/AI分享-2025-12-23-吴旻晖2 (6).pptx -> /Users/seven/Downloads/pptx/AI分享-2025-12-23-吴旻晖2 (6).pptx
+MOVE: /Users/seven/Downloads/cube.html -> /Users/seven/Downloads/html/cube.html
+MOVE: /Users/seven/Downloads/1 (1).user.js -> /Users/seven/Downloads/js/1 (1).user.js
+MOVE: /Users/seven/Downloads/sprite-sheet.png -> /Users/seven/Downloads/png/sprite-sheet.png
+MOVE: /Users/seven/Downloads/antigravity-wmhrun2000_gmail_com.json -> /Users/seven/Downloads/json/antigravity-wmhrun2000_gmail_com.json
+MOVE: /Users/seven/Downloads/codex-wmhrun2000@gmail.com-ggbone-3.json -> /Users/seven/Downloads/json/codex-wmhrun2000@gmail.com-ggbone-3.json
+MOVE: /Users/seven/Downloads/1766974273666(3).jpg -> /Users/seven/Downloads/jpg/1766974273666(3).jpg
+MOVE: /Users/seven/Downloads/1000美金.txt -> /Users/seven/Downloads/txt/1000美金.txt
+MOVE: /Users/seven/Downloads/6.0.66.dmg.zip -> /Users/seven/Downloads/zip/6.0.66.dmg.zip
+MOVE: /Users/seven/Downloads/goldendiamond-1.4.0 (1).zip -> /Users/seven/Downloads/zip/goldendiamond-1.4.0 (1).zip
+MOVE: /Users/seven/Downloads/Cursor_Dolphin_Mac.zip -> /Users/seven/Downloads/zip/Cursor_Dolphin_Mac.zip
+MOVE: /Users/seven/Downloads/foreground.png -> /Users/seven/Downloads/png/foreground.png
+MOVE: /Users/seven/Downloads/caijiduan-每次上报都成功.zip -> /Users/seven/Downloads/zip/caijiduan-每次上报都成功.zip
+MOVE: /Users/seven/Downloads/AI分享-2025-11-26-吴旻晖_最终版本.pptx -> /Users/seven/Downloads/pptx/AI分享-2025-11-26-吴旻晖_最终版本.pptx
+MOVE: /Users/seven/Downloads/电视时光1.0.10 (1).exe -> /Users/seven/Downloads/exe/电视时光1.0.10 (1).exe
+MOVE: /Users/seven/Downloads/success confetti.gif -> /Users/seven/Downloads/gif/success confetti.gif
+MOVE: /Users/seven/Downloads/Clash_1764460929.yaml -> /Users/seven/Downloads/yaml/Clash_1764460929.yaml
+MOVE: /Users/seven/Downloads/无标题-2025-12-01-1106 (1).excalidraw -> /Users/seven/Downloads/excalidraw/无标题-2025-12-01-1106 (1).excalidraw
+MOVE: /Users/seven/Downloads/Receipt-INV-446773.pdf -> /Users/seven/Downloads/pdf/Receipt-INV-446773.pdf
+MOVE: /Users/seven/Downloads/金钻-1.5.0 (1).zip -> /Users/seven/Downloads/zip/金钻-1.5.0 (1).zip
+MOVE: /Users/seven/Downloads/dolphin_cursor_mac 2.zip -> /Users/seven/Downloads/zip/dolphin_cursor_mac 2.zip
+MOVE: /Users/seven/Downloads/codex-wmhrun2000@gmail.com-ggbone-2.json -> /Users/seven/Downloads/json/codex-wmhrun2000@gmail.com-ggbone-2.json
+MOVE: /Users/seven/Downloads/1766974273666(2).jpg -> /Users/seven/Downloads/jpg/1766974273666(2).jpg
+MOVE: /Users/seven/Downloads/破解方法 (1).txt -> /Users/seven/Downloads/txt/破解方法 (1).txt
+MOVE: /Users/seven/Downloads/codex-sevenokey@gmail.com-ggbone-3.json -> /Users/seven/Downloads/json/codex-sevenokey@gmail.com-ggbone-3.json
+MOVE: /Users/seven/Downloads/codex-seven2000run@gmail.com-ggbone-3.json -> /Users/seven/Downloads/json/codex-seven2000run@gmail.com-ggbone-3.json
+MOVE: /Users/seven/Downloads/5435547490.pdf -> /Users/seven/Downloads/pdf/5435547490.pdf
+MOVE: /Users/seven/Downloads/logs-detail.sql -> /Users/seven/Downloads/sql/logs-detail.sql
+MOVE: /Users/seven/Downloads/hairstyle-k0xbsq6xy.png -> /Users/seven/Downloads/png/hairstyle-k0xbsq6xy.png
+MOVE: /Users/seven/Downloads/PokerX (1).cer -> /Users/seven/Downloads/cer/PokerX (1).cer
+MOVE: /Users/seven/Downloads/10K Channel -第37期.pdf -> /Users/seven/Downloads/pdf/10K Channel -第37期.pdf
+MOVE: /Users/seven/Downloads/30-day.txt -> /Users/seven/Downloads/txt/30-day.txt
+MOVE: /Users/seven/Downloads/Gemini_Generated_Image_iaq9d2iaq9d2iaq9.png -> /Users/seven/Downloads/png/Gemini_Generated_Image_iaq9d2iaq9d2iaq9.png
+MOVE: /Users/seven/Downloads/codex-sevenokey@gmail.com-cheggone.json -> /Users/seven/Downloads/json/codex-sevenokey@gmail.com-cheggone.json
+MOVE: /Users/seven/Downloads/grok-video-687bc38c-de29-411d-9dbb-923d7b3e41e1.mp4 -> /Users/seven/Downloads/mp4/grok-video-687bc38c-de29-411d-9dbb-923d7b3e41e1.mp4
+MOVE: /Users/seven/Downloads/codex-seven2000run@gmail.com-Codex202512210227-2.json -> /Users/seven/Downloads/json/codex-seven2000run@gmail.com-Codex202512210227-2.json
+MOVE: /Users/seven/Downloads/张书彬.png -> /Users/seven/Downloads/png/张书彬.png
+MOVE: /Users/seven/Downloads/吴旻晖 (4).png -> /Users/seven/Downloads/png/吴旻晖 (4).png
+MOVE: /Users/seven/Downloads/Untitled-2025-12-01-1029 (1).excalidraw -> /Users/seven/Downloads/excalidraw/Untitled-2025-12-01-1029 (1).excalidraw
+MOVE: /Users/seven/Downloads/WFT证书.zip -> /Users/seven/Downloads/zip/WFT证书.zip
+MOVE: /Users/seven/Downloads/Mimestream 1.9.4 [MacKed].dmg -> /Users/seven/Downloads/dmg/Mimestream 1.9.4 [MacKed].dmg
+MOVE: /Users/seven/Downloads/1766974283891(1).jpg -> /Users/seven/Downloads/jpg/1766974283891(1).jpg
+MOVE: /Users/seven/Downloads/task-frontend-dev (2).html -> /Users/seven/Downloads/html/task-frontend-dev (2).html
+MOVE: /Users/seven/Downloads/cursor_mac_id_modifier (1).sh -> /Users/seven/Downloads/sh/cursor_mac_id_modifier (1).sh
+MOVE: /Users/seven/Downloads/hd_no_watermark_微信图片_20251220120153_50_20.jpg -> /Users/seven/Downloads/jpg/hd_no_watermark_微信图片_20251220120153_50_20.jpg
+MOVE: /Users/seven/Downloads/PokerX-新增保险箱.zip -> /Users/seven/Downloads/zip/PokerX-新增保险箱.zip
+MOVE: /Users/seven/Downloads/hairstyle-collage-17665619202121.jpg -> /Users/seven/Downloads/jpg/hairstyle-collage-17665619202121.jpg
+MOVE: /Users/seven/Downloads/DolphinCursorClient_v3.6.3.exe -> /Users/seven/Downloads/exe/DolphinCursorClient_v3.6.3.exe
+MOVE: /Users/seven/Downloads/10K Channel第35期副刊--金融文档智能搜索案例.pdf -> /Users/seven/Downloads/pdf/10K Channel第35期副刊--金融文档智能搜索案例.pdf
+MOVE: /Users/seven/Downloads/Release-25.12.0-0.zip -> /Users/seven/Downloads/zip/Release-25.12.0-0.zip
+MOVE: /Users/seven/Downloads/Clash_1764555876.yaml -> /Users/seven/Downloads/yaml/Clash_1764555876.yaml
+MOVE: /Users/seven/Downloads/codex-sevenwu2000run@gmail.com-ggbone-2.json -> /Users/seven/Downloads/json/codex-sevenwu2000run@gmail.com-ggbone-2.json
+Planned/processed 319 file(s).

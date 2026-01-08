@@ -1,0 +1,115 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      body {
+        width: 720pt;
+        height: 405pt;
+        margin: 0;
+        display: flex;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #181B24;
+        color: #FCFCFC;
+      }
+      .slide {
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+        padding: 44pt 52pt;
+        display: flex;
+        flex-direction: column;
+        gap: 16pt;
+      }
+      h2 {
+        margin: 0;
+        font-size: 28pt;
+        line-height: 1.2;
+      }
+      .grid {
+        display: flex;
+        gap: 16pt;
+        flex: 1;
+      }
+      .col {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        gap: 12pt;
+      }
+      .card {
+        background: #23283A;
+        border: 2pt solid #313A55;
+        border-radius: 14pt;
+        padding: 16pt 18pt;
+      }
+      h3 {
+        margin: 0 0 8pt 0;
+        font-size: 18pt;
+        line-height: 1.2;
+        color: #FCFCFC;
+      }
+      ul {
+        margin: 0;
+        padding-left: 20pt;
+      }
+      li {
+        font-size: 15.5pt;
+        line-height: 1.35;
+        color: #E7ECFF;
+        margin: 6pt 0;
+      }
+      p {
+        margin: 0;
+        font-size: 15pt;
+        line-height: 1.35;
+        color: #B7C0D8;
+      }
+      .pill {
+        display: inline-block;
+        padding: 4pt 10pt;
+        border-radius: 999pt;
+        background: #B165FB;
+        margin-bottom: 10pt;
+        width: fit-content;
+      }
+      .pill p {
+        margin: 0;
+        color: #181B24;
+        font-weight: 800;
+        font-size: 12pt;
+        letter-spacing: 0.4pt;
+        line-height: 1.1;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide">
+      <h2>1）约束 Codex 的行为方式</h2>
+      <div class="grid">
+        <div class="col">
+          <div class="card">
+            <div class="pill"><p>定义</p></div>
+            <ul>
+              <li>能做什么（能力范围）</li>
+              <li>不能做什么（边界）</li>
+              <li>用什么格式输出结果</li>
+              <li>遵循什么规则或流程</li>
+            </ul>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card">
+            <h3>例子（更可控）</h3>
+            <ul>
+              <li>只能写某种语言的代码</li>
+              <li>必须按公司规范生成 API</li>
+              <li>回答时只引用内部文档</li>
+            </ul>
+            <p>把“做事方式”固化成规则，比临时对话更稳定。</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,8 @@
+{
+  "name": "say hi",
+  "version": "1.0.0",
+  "description": "一句话介绍",
+  "bin": { "say hi": "./index.js" },
+  "files": ["index.js"],
+  "preferGlobal": true
+}

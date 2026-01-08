@@ -1,0 +1,143 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      body {
+        width: 720pt;
+        height: 405pt;
+        margin: 0;
+        display: flex;
+        font-family: Arial, Helvetica, sans-serif;
+        background: #181B24;
+        color: #FCFCFC;
+      }
+      .slide {
+        width: 100%;
+        height: 100%;
+        box-sizing: border-box;
+        padding: 34pt 46pt;
+        display: flex;
+        flex-direction: column;
+        gap: 12pt;
+      }
+      h2 {
+        margin: 0;
+        font-size: 26pt;
+        line-height: 1.2;
+      }
+      .table {
+        display: flex;
+        flex-direction: column;
+        gap: 6pt;
+      }
+      .row {
+        display: flex;
+        gap: 8pt;
+      }
+      .cell {
+        background: #23283A;
+        border: 2pt solid #313A55;
+        border-radius: 12pt;
+        padding: 8pt 10pt;
+        box-sizing: border-box;
+      }
+      .w1 {
+        width: 26%;
+      }
+      .w2 {
+        width: 37%;
+      }
+      .w3 {
+        width: 37%;
+      }
+      .header .cell {
+        background: #1F2332;
+        border-color: #3A4570;
+      }
+      .header p {
+        color: #FCFCFC;
+        font-weight: 800;
+        font-size: 12.8pt;
+      }
+      p {
+        margin: 0;
+        font-size: 12.8pt;
+        line-height: 1.3;
+        color: #E7ECFF;
+      }
+      .muted {
+        color: #B7C0D8;
+        font-weight: 700;
+      }
+      .tag {
+        display: inline-block;
+        padding: 4pt 10pt;
+        border-radius: 999pt;
+        background: #B165FB;
+        width: fit-content;
+      }
+      .tag p {
+        margin: 0;
+        color: #181B24;
+        font-weight: 800;
+        font-size: 12pt;
+        letter-spacing: 0.4pt;
+        line-height: 1.1;
+      }
+      .conclusion {
+        display: flex;
+        align-items: center;
+        gap: 10pt;
+        margin-top: 6pt;
+      }
+      .conclusionText {
+        font-size: 12.8pt;
+        color: #E7ECFF;
+        font-weight: 700;
+      }
+      .note {
+        margin-top: 2pt;
+        font-size: 12.5pt;
+        color: #B7C0D8;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="slide">
+      <h2>和普通 Prompt 的区别</h2>
+      <p class="note">可以把 Prompt 理解为“聊天”，把 Skill 理解为“功能”。</p>
+      <div class="table">
+        <div class="row header">
+          <div class="cell w1"><p class="muted">对比项</p></div>
+          <div class="cell w2"><p>Prompt</p></div>
+          <div class="cell w3"><p>Skill</p></div>
+        </div>
+        <div class="row">
+          <div class="cell w1"><p class="muted">临时性</p></div>
+          <div class="cell w2"><p>一次性</p></div>
+          <div class="cell w3"><p>可长期复用</p></div>
+        </div>
+        <div class="row">
+          <div class="cell w1"><p class="muted">稳定性</p></div>
+          <div class="cell w2"><p>依赖输入质量</p></div>
+          <div class="cell w3"><p>行为更可控</p></div>
+        </div>
+        <div class="row">
+          <div class="cell w1"><p class="muted">适合谁</p></div>
+          <div class="cell w2"><p>个人使用</p></div>
+          <div class="cell w3"><p>团队 / 产品级</p></div>
+        </div>
+        <div class="row">
+          <div class="cell w1"><p class="muted">结构化</p></div>
+          <div class="cell w2"><p>通常是自然语言</p></div>
+          <div class="cell w3"><p>通常有配置或模板</p></div>
+        </div>
+      </div>
+      <div class="conclusion">
+        <div class="tag"><p>结论</p></div>
+        <p class="conclusionText">Prompt 更灵活；Skill 更稳定、可规模化。</p>
+      </div>
+    </div>
+  </body>
+</html>
